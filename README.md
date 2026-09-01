@@ -3,7 +3,7 @@
 Detecção de Vagas Disponíveis em Estacionamentos por Processamento Digital de Imagens
  
 ## 2. Integrantes:
-* João Matheus
+* João Matheus de Oliveira Vieira
 * Maria Eduarda de Melo Honorato
 * Scheila Carolini da Silva Ceresa
   
