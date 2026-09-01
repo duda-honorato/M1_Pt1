@@ -134,8 +134,21 @@ Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilida
 ## 10. link para o vídeo da M1: 
 https://youtu.be/5l5vSYWoiJw
 
-## 11. 0rganização do repositório: 
+## 11. Declaração de Uso de Inteligência Artificial
+
+Neste projeto, utilizamos ferramentas de Inteligência Artificial (IA) como recurso complementar para auxiliar no desenvolvimento das atividades. A IA foi empregada principalmente para:
+
+- Aprimoramento da escrita: correção gramatical, revisão de texto e sugestões de clareza e coesão;
+
+- Organização de ideias: estruturação de argumentos e aprimoramento da fluidez textual;
+
+- Verificação de parâmetros: consultamos se o objeto precisava de parâmetros além dos iniciais, e foi sugerido utilizar as seguintes métricas na Fase 3: análise de energia ou entropia (matriz de co-ocorrência - GLCM) e contagem de bordas internas (mais bordas = ocupado).
+
+Ressaltamos que todo o conteúdo final foi analisado, validado e adaptado pelos integrantes do grupo, garantindo a originalidade, coerência e responsabilidade sobre as informações apresentadas. A IA atuou como uma ferramenta de apoio, e não como substituta do pensamento crítico e da autoria humana.
+
+## 12. 0rganização do repositório: 
 Como estamos idealizando a solução, nada foi iniciado ainda; acreditamos que será isso.
+
 
 ```bash
 │
