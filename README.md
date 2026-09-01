@@ -117,11 +117,11 @@ Por fim, em relação a solução, a mesma apresenta limitações como:
 
 [Dataset_Kaggle](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset?resource=download)
 
-## 8. estágio atual do projeto:
+## 8. Estágio atual do projeto:
 
 O projeto ainda não foi iniciado; estamos apenas na fase de idealização da solução.
 
-## 9. tecnologias previstas ou já utilizadas:
+## 9. Tecnologias previstas ou já utilizadas:
     
 |**Tecnologia**|**Descrição**|
 |---|---|
@@ -131,7 +131,8 @@ O projeto ainda não foi iniciado; estamos apenas na fase de idealização da so
 
 Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilidade no desenvolvimento. A escolha também é compatível com a abordagem adotada, que utiliza métodos tradicionais de PDI, dispensando o uso de bibliotecas mais complexas.
 
-## 10. link para o vídeo da M1: 🚩
+## 10. link para o vídeo da M1: 
+https://youtu.be/5l5vSYWoiJw
 
 ## 11. 0rganização do repositório: 
 Como estamos idealizando a solução, nada foi iniciado ainda; acreditamos que será isso.
