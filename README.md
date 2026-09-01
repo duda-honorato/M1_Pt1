@@ -115,7 +115,13 @@ Por fim, em relação a solução, a mesma apresenta limitações como:
 
 ## 7. Conjunto ou origem das imagens:
 
+Utilizado as imagens do site: 
+
 [Dataset_Kaggle](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset?resource=download)
+
+Licença para uso das imagens: 
+
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 ## 8. Estágio atual do projeto:
 
