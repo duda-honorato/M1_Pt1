@@ -20,11 +20,10 @@ Diante disso, propomos responder à seguinte pergunta:
 | **Formato de saída** | Valor booleano: `1` (ocupada) ou `0` (vazia) para cada vaga analisada |
 | **Formato de entrada** | Imagens no formato PNG, encontradas no Dataset |
 
-
 ## 5. Objetivo geral:
 Desenvolver uma solução baseada em Processamento Digital de Imagens (PDI) para identificar automaticamente se vagas de estacionamento estão livres ou ocupadas, a partir de imagens capturadas por câmeras.
 
-## 6. visão resumida da solução proposta:
+## 6. Visão resumida da solução proposta:
 A solução é dividida em três fases principais, formando um pipeline de processamento de imagens:
 ## FASE 1: Detecção e Delimitação das Vagas
 
@@ -107,7 +106,13 @@ A solução é dividida em três fases principais, formando um pipeline de proce
     - Cálculo do desvio padrão médio das vagas vazias em imagem de referência
         
     - Definição de limiar adaptativo: se desvio > limiar → ocupado
-        
+
+Por fim, em relação a solução, a mesma apresenta limitações como:
+- Não identifica o tipo de objeto ocupante (veículo, cone, lixeira, etc.)  
+- Não trata sobreposição parcial de objetos  
+- Não considera diferentes posições ou tamanhos de veículos  
+- Não é aplicável em ambientes não estruturados (vagas sem demarcação, formatos irregulares, perspectivas distorcidas)
+
 ## 7. Conjunto ou origem das imagens:
 
 [Dataset_Kaggle](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset?resource=download)
