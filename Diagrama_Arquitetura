@@ -1,10 +1,8 @@
-```
+---
 
+   A[Imagem da Câmera] --> B[FASE 1: Detecção e Delimitação das Vagas]
+   B --> C[FASE 2: Extração das Vagas e Pré-processamento]
+   C --> D[FASE 3: Classificação Ocupado vs Vazi\o]
+   D --> E[Status de Ocupação Atualizado]
 
-A[Imagem da Câmera] --> B[FASE 1: Detecção e Delimitação das Vagas]
-B --> C[FASE 2: Extração das Vagas e Pré-processamento]
-C --> D[FASE 3: Classificação Ocupado vs Vazi\o]
-D --> E[Status de Ocupação Atualizado]
-
-
-```
+---
