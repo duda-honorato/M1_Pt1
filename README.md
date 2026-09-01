@@ -121,9 +121,7 @@ Por fim, em relação a solução, a mesma apresenta limitações como:
 
 O projeto ainda não foi iniciado; estamos apenas na fase de idealização da solução.
 
-## 10. 0rganização do repositório: 🚩
-
-## 11. tecnologias previstas ou já utilizadas:
+## 9. tecnologias previstas ou já utilizadas:
     
 |**Tecnologia**|**Descrição**|
 |---|---|
@@ -133,4 +131,32 @@ O projeto ainda não foi iniciado; estamos apenas na fase de idealização da so
 
 Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilidade no desenvolvimento. A escolha também é compatível com a abordagem adotada, que utiliza métodos tradicionais de PDI, dispensando o uso de bibliotecas mais complexas.
 
-## 12. link para o vídeo da M1: 🚩
+## 10. link para o vídeo da M1: 🚩
+
+## 11. 0rganização do repositório: 
+Como estamos idealizando a solução, nada foi iniciado ainda; acreditamos que será isso.
+
+```bash
+│
+├── src/
+│   ├── etapas/
+│   │   ├── fase1.java
+│   │   ├── fase2.java
+│   │   └── fase3.java
+│   │
+│   ├── model/
+│   │   └── vagaEstacionamento.java
+│   │
+│   ├── util/
+│   │   └── utils.java
+│   │
+│   └── Main.java
+│
+├── images/
+│   ├── input/
+│   │   └── img.png (Dataset)
+│   └── output/
+│
+├── README.md
+├── .gitignore
+└── pom.xml
